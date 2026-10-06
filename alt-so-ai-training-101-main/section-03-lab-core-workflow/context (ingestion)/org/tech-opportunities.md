@@ -38,7 +38,12 @@
 
 ## Validation and Open Questions
 These are follow-up questions from the signal assessment, not requirements confirmed by stakeholders:
-- What privacy, consent, data-access, and retention safeguards are needed for sensitive family information?
-- How should success be measured for either opportunity, and who would own and maintain a solution?
-- Which workflows and system integrations should be prioritized, including how a new tool would relate to the internal client system and HMIS?
-- Validate language coverage, family and staff needs, inventory/request workflows, and distribution options with families and frontline staff before setting scope.
+- **Prioritization and scope:** Which opportunity should be explored first? What is the MVP, funding timeline, and decision process for moving from prototype to implementation?
+- **Family journey workflow:** What are the detailed steps, handoffs, exceptions, and current wait times across health, housing, and youth services? Should a tool provide information, recommendations, or prioritization, and what decisions must remain with staff or families?
+- **Goods workflow:** How do donation intake, sorting, inventory, family requests, fulfillment, and surplus redistribution work end to end? How is a usable item defined, and who requests, approves, and fulfills orders?
+- **Users and access:** Which families and staff roles will use each capability? What device, connectivity, accessibility, language, and communication-style needs should be supported?
+- **Privacy and governance:** What consent, role-based access, audit, data retention, and applicable legal safeguards are required for sensitive family information? Who owns the data and the product?
+- **Systems and integration:** What versions, interfaces, hosting, and data-quality constraints apply to the internal client system and HMIS? Which integrations are priorities, and what technical environment can Mary's Place support?
+- **Success measures:** What baselines and target outcomes should be used, such as intake effort, time to housing, family progress, inventory accuracy, usable-donation rate, fulfillment time, or unmet demand?
+- **Operations:** Who will fund, maintain, support, and train users on a solution after a prototype? What responsibilities belong to Mary's Place, partners, and vendors?
+- Validate these questions with families and frontline care-coordination and goods-intake/distribution staff before setting scope.

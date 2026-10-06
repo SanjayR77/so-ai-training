@@ -25,3 +25,8 @@
 - Reduce manual processes, including bed-availability tracking.
 - Improve real-time visibility into resources.
 - Maximize social impact and prototype scalable solutions that can extend beyond a single agency.
+
+## Open Questions
+- Which organizational goals and service populations should a software initiative prioritize, and how will success in helping families reach stable housing be measured?
+- Is bed-availability tracking part of the initiative? If so, which users, workflows, and source data are involved?
+- What does scalability beyond a single agency mean in terms of partners, adoption, and ongoing ownership?

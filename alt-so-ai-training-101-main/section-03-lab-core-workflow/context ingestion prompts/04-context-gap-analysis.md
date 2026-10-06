@@ -1,0 +1,1 @@
+Given the files in `context (ingestion)/org/`, what important information about the Mary's Place project seems to be missing that would be helpful for a TPM planning a software initiative for this organization?
