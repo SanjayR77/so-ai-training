@@ -1,0 +1,1 @@
+Using `raw-materials/02 Marys Place Current Challenges.md` as your only source, create a new file at `context (ingestion)/org/challenges.md`. Distill and organize the operational challenges by service area, preserving the key details but removing any redundancy. Use concise bullet points. The audience is a product team scoping a software solution for Mary's Place.
