@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>City Temperature</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Current Temperature</h1>
+    <form id="city-form">
+      <label for="city">City</label>
+      <input id="city" name="city" type="text" placeholder="e.g. London" autocomplete="off" required>
+      <button type="submit">Get temperature</button>
+    </form>
+    <p id="status" aria-live="polite"></p>
+    <p id="result"></p>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
