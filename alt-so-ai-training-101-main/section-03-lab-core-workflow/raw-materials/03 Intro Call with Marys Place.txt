@@ -1,0 +1,1472 @@
+RE Potential pro bono team to spend some time on a Mary's Place problem-20251114_100148-Meeting Transcript
+November 14, 2025, 6:01PM
+53m 6s
+Casey Frith-Smith 
+started transcription
+Jason Gortney   
+1:50
+Awesome. Well, it's nice to meet both of you. I can go. I'm Jason Gortney. I'm the Chief Program and Innovation Officer at Mary's Place. I've been with Mary's Place for about 2 1/2 years now, and my 
+my
+ career has been in Human Services for.
+Mike 
+Komola
+   
+1:51
+It's nice to meet you.
+Jason Gortney   
+2:08
+A couple of decades, so um.
+But have been here for a couple years now.
+Mike.
+Mike 
+Komola
+   
+2:17
+Thanks, Jason. Yeah, Mike Kamola is my name. I lead the human resources and operations function, Chief HR and Operations Officer by title. I've been with Mary's Place for five years as an employee and they were a consulting client of mine for a bit of time prior.
+To that my career is all HR. The OPS stuff is just 
+cause
+ we needed 
+it
+ and I could so but yeah 30 plus years in in HR in the private sector space but also.
+Have owned and operated and still own and operate an HR outsourcing and consulting firm as well as a bit of a I guess now it's a side hustle. It used to be a primary focus. Nice to meet you, yeah.
+Jason Gortney   
+8:01
+We 
+we
+ provide sort of three services. One is emergency shelter for families.
+Casey Frith-Smith   
+8:09
+Mhm
+.
+Mhm
+.
+Jason Gortney   
+8:16
+And this is all in the Seattle, King County area of Washington. And 
+so
+ we have our own inventory of emergency shelter services beds and then we also partner with all the other providers in the community and 
+we
+ actually.
+Jason Gortney   
+8:33
+Are the kind of central intake for all any family who's experiencing homelessness, who's seeking a shelter space. They call us and 
+and
+ we are in communication with that home network. 
+So
+ we have a really good idea of the inventory where it is.
+Casey Frith-Smith   
+8:49
+Mhm
+.
+Jason Gortney   
+8:50
+The so that's 
+that's
+ one of our services. Another service is mobile outreach. 
+So
+ we have a team that can travel anywhere across the county where there's a family maybe sleeping in a car or a tent and they can identify those folks who don't really need emergency shelter. They 
+could actually
+.
+Actually, they could 
+actually sustain
+ housing if we if they could just get over like a financial barrier to get into housing. 
+So
+ like we have flexible funds, we can pay down some back debt, we can help them navigate to an affordable unit, we can pay movement costs and that kind of thing if they can sustain it.
+Casey Frith-Smith   
+9:16
+Mhm
+.
+Mike 
+Komola
+   
+9:17
+And.
+Jason Gortney   
+9:28
+So, so that's our main, 
+we
+ 
+actually half
+ the folks we serve, we serve through that through that service. And then our third kind of prong is, is prevention and that's rental assistance for families who are at imminent risk of losing their housing. 
+So
+ we have flexible funds, we can again pay down some back debt.
+We can give them a little cushion so that they can stabilize and maintain their housing. And so that's kind of what we do. Our 
+our
+ major pain point right now is we just don't have 
+enough,
+ there's not enough shelter capacity.
+Casey Frith-Smith   
+9:55
+Mm-hmm.
+Jason Gortney   
+10:05
+To serve all the families who need shelter, where I think we're doing a really good job at moving those directly into housing who can sustain that, but for those who need a longer pathway before they're going to be able to sustain housing again.
+Casey Frith-Smith   
+10:20
+Mhm
+.
+Jason Gortney   
+10:21
+There's just not enough shelter capacity. So, so one issue we have is just the throughput through shelter. So we've seen our length of stay in our own shelter and in others go up, up, up over the last few years.
+So I would say that's our major pain point is until we can get more shelter space or we can have fewer people coming in, we need to be able to move people through shelter as efficiently as possible so that we can turn those beds over.
+Casey Frith-Smith   
+10:54
+Mhm
+.
+Jason Gortney   
+10:55
+As 
+as
+ efficiently as possible and that would allow us to shelter more families. So that's just a little context. I don't know if that jog jogs any ideas or.
+Casey Frith-Smith   
+11:02
+Right.
+Thank you.
+What is? What do you think contributes to that length of stay increasing?
+Jason Gortney   
+11:14
+I think the main thing is just housing affordability and economic pressure. 
+So
+ the cost of living in King County has just skyrocketed. We 
+we
+ also had.
+Kind of 
+we
+. 
+So
+ we were already in a crisis where we didn't have enough shelter beds and then we had a huge influx of 
+asylum seeking
+ folks migrate into the 
+area
+ and it just exacerbated the kind of competition for that kind of low.
+Casey Frith-Smith   
+11:38
+Mhm
+.
+Jason Gortney   
+11:46
+Low income
+ housing, affordable housing.
+But I do think there are some opportunities. When I think about like generative A I in our context, one of the things I think about is we we're very manual in how we how we work with families when they come into emergency shelter.
+Casey Frith-Smith   
+11:59
+OK.
+Thank you.
+Jason Gortney   
+12:09
+We have, we have a health team that will meet with the family and assess, you know, do you have health insurance? Do your kids have health insurance? Do you have any pressing needs? Are you connected to care? Do you need any behavioral healthcare, that kind of thing. 
+So
+ they kind of do an assessment. We have a housing team that.
+Works with families to kind of identify like what's your credit rating, what's your back? Do you have any debt? You know, what are your kind of barriers to getting back into housing? What's your income? 
+Is
+ there other ways we could increase that? We have a 
+a
+ Youth Services team that helps families navigate the 
+the
+, you know, like the school system and transportation.
+And all that stuff. And it's all kind of these different teams that all do these different assessments. And 
+so
+ one of the things I have thought about is it would be 
+really cool
+ to have some kind of like, you know, like your shelter, your virtual advocate or something.
+That you could sort of, um.
+Would sort of ask prompt you on 
+all of
+ that information. You could do it kind of at your own pace and then could help prioritize like OK, like here's step one and 
+and
+ kind of because it's a very complicated set of things that that we have to do with people.
+Lauren Milosky   
+13:13
+Yeah.
+Jason Gortney   
+13:25
+Kind of on a one-to-one basis with different team members. And if 
+if
+ we had some way to kind of efficiently like assess the situation, prioritize like these are all the things that need to happen. This is the most important to do first on day one, do this on day two, do this like break this 
+really complicated
+ thing down into these very.
+Manageable steps that would also help 
+help
+ the people maybe gain like some skills around tackling a very complex problem, if that makes sense. Like kind of scaffolding that experience, making this very complicated thing kind of manageable. That's kind of a dream I have since 
+since
+.
+Lauren Milosky   
+13:46
+Mhm
+.
+Mhm
+, 
+mhm
+.
+Mike 
+Komola
+   
+13:54
+Mhm
+.
+Casey Frith-Smith   
+13:56
+Yeah.
+Lauren Milosky   
+14:01
+Yeah.
+Jason Gortney   
+14:05
+AI came into the picture, but and Mike may have some other things on the operational side.
+Mike 
+Komola
+   
+14:05
+Yeah. And I want to layer. Wow. No, no, you that was a yeah, no, that was a very good overview the 
+the
+ 
+the
+.
+Additional layer to the dream that I would add is we're you know that families and it shifts over time, but at any given point in time we're dealing with families in somewhere between 4:00 and 8:00 languages and cultural backgrounds.
+So using technology to facilitate communication and those capabilities on top of that. 
+So
+ to do what Jason described in a language in a communication style they're familiar with would also greatly add to enablement there.
+Lauren Milosky   
+14:41
+And.
+Yeah.
+Mike 
+Komola
+   
+14:56
+And the languages shift, I mean we know that there's some trends, right, but they 
+they
+ do shift over time. But if you know, I don't know probably 12 or 15 languages would 
+would
+ capture the 
+the
+ breadth we're talking about here, so.
+Jason Gortney   
+15:06
+At any at any given time, yeah.
+Lauren Milosky   
+15:13
+I 
+I
+ do have one kind of clarifying question as you talk through this.
+Jason Gortney   
+15:17
+Mhm
+.
+Lauren Milosky   
+15:21
+As families or individuals are going through this sort of like intake and you're talking about prioritization, is that prioritization more thinking about only their outcomes and like, OK, now we understand your full picture for your success. This is how.
+You should prioritize these 
+activities
+ or does that also feed into how Mary's place? Maybe like, I don't know with your capacity constraints if you 
+have to
+ prioritize like who you can provide services to and if there's any sort of.
+Prioritization on your end as well in terms of who you're serving.
+Jason Gortney   
+16:02
+Yeah. 
+So
+ there is some, so there is some prioritization that we do for intake into 
+shelter
+ and I think that works 
+pretty well
+. But what I'm thinking about is each family is 
+really unique
+ in their in their needs and if we had a.
+Lauren Milosky   
+16:07
+OK.
+OK.
+Jason Gortney   
+16:18
+If we had a an A I that could that was 
+really smart
+ about like understanding like the OK, these are all the things that this family is facing in terms of barriers to becoming rehoused. We know that this 
+particular thing
+ takes like 3 months.
+Lauren Milosky   
+16:30
+Mhm
+.
+Jason Gortney   
+16:37
+So let's start that on day one or day two, right? These other things could wait, you know what I mean? Like if it had that kind of sophisticated. And 
+so
+ 
+so
+ when the family met with, say, their housing specialist or their health specialist, it would be at the right time, in the right sequence and 
+and
+ all the information would.
+Lauren Milosky   
+16:39
+Yeah.
+Yeah.
+Yeah.
+Mhm
+.
+Jason Gortney   
+16:56
+Just be there and so they could just cut to like the 
+the
+ important work that they need to do 
+together
+ and I think that that could potentially make it a more efficient movement through 
+through
+ shelter and the other thing is we 
+we
+ don't really have.
+Lauren Milosky   
+17:03
+Yeah.
+OK.
+Jason Gortney   
+17:14
+We don't have any kind of limits on how long people can be in shelter. We really want to tailor the experience to each family's needs. Some people need to be there a long time, some people don't. But it would be awesome if at the beginning we had some way to kind of estimate, like, here's about how long we think your journey should be.
+Lauren Milosky   
+17:18
+Back.
+Yeah.
+And.
+Jason Gortney   
+17:33
+Based on what we know and there's flexibility around that. But if we know if, if, if these 50 steps can happen kind of in this timeline, like you could be back in your own apartment, does that make sense?
+Lauren Milosky   
+17:45
+I think it 
+it
+ does and I see a lot of benefits both for the individual and like I 
+I
+ think in 
+my own experience like a hard journey can be so much or easier. It can be so motivating to kind of have a sense of 
+a an
+ end to that. But then also you've spoken.
+Casey Frith-Smith   
+17:48
+Yeah.
+Jason Gortney   
+18:02
+Yeah, mm-hmm.
+Lauren Milosky   
+18:05
+About your own capacity constraints and that would allow a lot of like capacity and demand forecasting on your end internally as well.
+Jason Gortney   
+18:13
+Right. Yeah, for sure.
+Lauren Milosky   
+18:14
+Yeah, I am a product person and so I'm trying to hold myself back from solutioning and imagining in this 
+early stage
+ conversation. But I 
+I
+ have another question. As families and individuals are sort of going through this process today, do they work with?
+Casey Frith-Smith   
+18:16
+It.
+Jason Gortney   
+18:22
+Yeah.
+Lauren Milosky   
+18:32
+Sort of like a centralized support coordinator or are they working with different people? It's probably 
+an 
+and
+, but I'm wondering if they also have centralized support and maybe there would be multiple people who would have access to this journey that they're on and be able to see progress or do you see this as something?
+That would be more like isolated to the family.
+Jason Gortney   
+18:57
+Well, I mean, the way it works now is like each family will have like a point person who's kind of their specialist, their housing specialist. And that person is kind of the overall case manager, like, oh, hey, I hear, but you have this health thing. You should go meet with the health team.
+Lauren Milosky   
+19:06
+OK.
+Alright.
+Jason Gortney   
+19:16
+So we have these, we have these different teams, but 
+but
+ we kind of have this sort of central navigator and they all share the same data system. 
+So
+ everybody, everybody can see kind of what that family's goals are, what they're working on with other teams. It's clunky, but we have it.
+Lauren Milosky   
+19:24
+OK.
+8.
+Jason Gortney   
+19:32
+Um, so I don't know if that answers your question.
+Casey Frith-Smith   
+19:32
+Next.
+Jason, I do have a so that that data system. 
+So
+ you said they will talk to different multiple teams, right? And 
+so
+ they're inputting data into that system and each one of those intake teams has access to that data and is filling it out OK.
+Jason Gortney   
+19:43
+Mhm
+.
+That's correct. Yeah.
+Casey Frith-Smith   
+19:53
+Um, thank you. And then to Lauren's question, it sounds like there's no external parties that would have access to that data. Yeah, OK.
+Jason Gortney   
+19:59
+No.
+Lauren Milosky   
+20:01
+OK.
+Jason Gortney   
+20:02
+No. Well, I guess I should qualify. There is some data that is loaded into what's called the 
+the
+ homelessness management information system that is a county wide system. 
+So
+ there is some basic information about 
+all of
+ our clients that goes into.
+Sort of a county-wide system, but it's 
+it's
+ pretty, it's 
+pretty minimal
+. It would be nothing about their individual goals or any of that kind of stuff. It would just be more demographic, more demographic stuff, yeah.
+   
+20:27
+OK.
+Casey Frith-Smith   
+20:27
+Yeah.
+Mike 
+Komola
+   
+20:28
+Basic demographics.
+Casey Frith-Smith   
+20:29
+Got it. And that's and that's a is there an integration from this current application that sends that data?
+Jason Gortney   
+20:34
+Oh, I 
+I
+ wish. I wish that were true.
+Casey Frith-Smith   
+20:36
+OK, so it's 
+it's
+ keyed in here and then it's keyed in over there. OK.
+Mike 
+Komola
+   
+20:39
+Duplicate data entry.
+Jason Gortney   
+20:40
+That's right, it is a double. It is a double entry nightmare.
+Lauren Milosky   
+20:41
+OK.
+Alright.
+Casey Frith-Smith   
+20:52
+Sorry, I feel like I interrupted your flow, Lauren.
+Lauren Milosky   
+20:54
+No, no, no. I'm I have so many questions and I'm thinking about.
+Where to go next? I I've asked many questions. Casey, what do you do?
+Casey Frith-Smith   
+21:05
+But.
+I'm 
+I'm
+ curious for you like what would be I 
+I
+ mentioned in my e-mail right. We're going through this 
+process
+ and this is there's like multiple great options here right of things for the 
+the
+ team to explore. What would be an A useful outcome from us for you would?
+A prototype be useful that helps you to go get funding or would you like us to 
+to
+ some of the things you're describing are like, hey, I want a system that does these things, right? Like you articulated a couple of use cases where you know there's some, there's an app potentially or a site that people could go to and 
+and
+ enter some of this information ahead of time.
+So that you're optimizing that intake process to say like, OK, you've already entered this data, I just want to verify it. You're supporting multiple languages, right? You are using that data to 
+to
+ prioritize the steps in their journey.
+Would a useful outcome from us be other ideas around that for you or a prototype of some of the things you've discussed? Would that help you to secure funding or 
+like what? What? You know, I'm curious what like if we were to say, hey, we went through this process and here's the outcome, what would it be for you?
+Jason Gortney   
+22:15
+Yeah.
+Mhm
+.
+I mean for me on that 
+idea,
+ a prototype would be 
+really interesting
+. I think even a like a.
+Like a concept with enough meat on it that you know it could be interesting to. It could be something we could shop.
+Casey Frith-Smith   
+22:33
+Mhm
+.
+Jason Gortney   
+22:43
+Even 
+even
+ some help thinking through like what would a system like that 
+'cause
+ they're probably cooler things than I'm thinking of right now that something like that could do.
+Casey Frith-Smith   
+22:45
+Mhm
+.
+Jason Gortney   
+22:52
+And then Mike, I don't know, are there are there like warehouse things that you think about or any OPS stuff? I don't want to hog this call.
+Casey Frith-Smith   
+22:53
+Hi.
+Mike 
+Komola
+   
+23:03
+Um.
+No, not 
+not
+ really. Not that I can. Um.
+Jason Gortney   
+23:08
+OK.
+Mike 
+Komola
+   
+23:13
+That I can think of from a.
+An AI application perspective.
+Casey Frith-Smith   
+23:21
+Well, maybe the question like is like what? What are like the biggest challenges? Like if 
+if
+ you had a, you know, I don't see if you had a magic wand that you could wave, but like is there is there one thing that we could, you know in the next 60 to 90 days that we can do like what 
+what
+ manual process or what 
+what
+ difficulties?
+Process. It's like, hey, yeah, like, I would love to solve that. This is an articular challenge.
+Jason Gortney   
+23:44
+OK.
+Mike 
+Komola
+   
+23:47
+Now you got me. OK, so there.
+One of the some of the things that we do to provide support to families that are.
+With us while they're with us and when they transition into housing is we.
+Channel. So, so we 
+we
+ collect in-kind donations from the community, household goods, diapers, personal care items, so community donations. Just think of the 
+the
+ times that you've gone in your 
+car
+ and you've gone up to Goodwill.
+Or pick your favorite place and you've unloaded your formerly cherished possessions and you're hoping those possessions do some good for a homeless family somewhere, right? Just think of that experience that you've probably had. 
+So
+ we get lots of that. We also get corporate partners who want to do things for families. We want to.
+Casey Frith-Smith   
+24:39
+Like.
+Mhm
+.
+Mike 
+Komola
+   
+24:59
+Sponsor a coat drive. We want to get together and make.
+Cake baking kits or meal kits for kids or backpacks for kids when they go to school. All kinds of corporate activities that generate stuff that's intended to go to families.
+It's the let me how can I describe this? The challenge that we have is we get in lots of stuff from those two sources.
+About.
+15 or 20% of that stuff is 
+actually usable
+ by our families, and the rest of that stuff is not. But we take it anyway, and for various reasons I won't bore you with, and then we 
+have to
+.
+But that stuff
+, by the way, doesn't
+ just go into a landfill. That stuff has inherent value. It just doesn't have an inherent value to the guests of Mary's place. 
+So
+ part of the 
+the
+ challenge is twofold. One is the efficient distribution of the stuff that.
+Lauren Milosky   
+26:03
+And.
+Mike 
+Komola
+   
+26:16
+Families need to families, and we have ways that we do that now, but I'm guessing, you know, that I can explain. Well, that's one challenge. But the other challenge, probably the bigger one, is 
+all of
+ the stuff that we generate that we can't use. It's not a simple matter of saying please don't give us stuff anymore. Please don't unload.
+Lauren Milosky   
+26:35
+OK.
+Mike 
+Komola
+   
+26:36
+Of car. Please don't, Microsoft. Please don't do another extra. Our development folks would scream at me if I ever suggested that, right? Because there's other values to that relationship than just the stuff that they produce at the holiday period. But all of the stuff that we can't use, I am.
+99% certain there's community need out there that other people, other organizations that are helping families, individuals.
+That they could use that stuff, but the 
+the
+ process, the logistics of creating community to redistribute that stuff that is usable.
+To the greater good beyond Mary's place is a significant challenge that we have. 
+So
+ it's twofold. One is with, you know, getting the things that we can use to our families 
+because we could we have a greater need.
+Um.
+For stuff than we can supply. And the reason is not because there isn't enough stuff. The reason is because of the logistics, the processes, the flow of information about what stuff is available, those kinds of challenges. It's not a I got a warehouse full of stuff.
+Lauren Milosky   
+27:52
+OK.
+Mike 
+Komola
+   
+27:58
+And we get 
+more and more
+ all the time and 
+and
+ so that internal sort of sharing and distribution system and then the external one or those 
+those
+ two, two challenges that are pretty.
+Casey Frith-Smith   
+27:58
+Mhm
+.
+Mike 
+Komola
+   
+28:15
+Pretty significant. That's probably my 
+my
+ number one operational challenge right now or source of process improvement because we have, you know, Jason talked about shelter and he also talked about outreach and prevention.
+Casey Frith-Smith   
+28:20
+Mhm
+.
+Mike 
+Komola
+   
+28:30
+Right now 
+our
+ distribute stuff operation internally is focused on shelter because historically that's been our focus and yet we have outreach families who have great need as well and we're currently sadly 
+really not
+.
+Lauren Milosky   
+28:45
+And.
+Mike 
+Komola
+   
+28:49
+Able our 
+our
+ systems and processes 
+aren't able to
+ fulfill that need. And we have our outreach team folks going to our warehouse and saying, hey, I got a family moving into housing and you know, could we get a 
+a
+ household setup pack?
+And we'll they'll try to fulfill that if they can put stuff in a bag and deliver it or have it pick it up. But it's that connection of supply to demand that's process wise that is getting in our way. It's not the availability of stuff that's getting it to where it needs the 
+the
+ process through it.
+Lauren Milosky   
+29:16
+Mhm
+.
+Mike 
+Komola
+   
+29:26
+Which it gets from where it is in a donor's hands, in our warehouse, etcetera, into those 
+families
+ hands that we need to rethink and think through. And then the prevention families there, there are certain there are opportunities there too where we just can't.
+You know, we 
+we
+ can't find a way right now to fulfill those needs. And yet there's all this stuff, right? 
+So
+ the process is broken. 
+So
+ is that paint, paint a picture?
+Casey Frith-Smith   
+29:52
+Yeah.
+Like is.
+Yeah, for sure. And so that that stuff, I'm assuming some of it is like usable and use the word guests, which is great. 
+So
+ like usable for guests in Mary's place. There's probably some stuff that's 
+that's
+ usable for, you know, from a prevention standpoint and mobile outreach, so like.
+Mike 
+Komola
+   
+29:58
+OK.
+Yes.
+Casey Frith-Smith   
+30:15
+You know, a floor lamp is probably not useful to somebody who's in shelter, but probably very, very useful to somebody who's like, you know, moving from car or tent situation to apartment or, you know, maybe even in the mobile outreach.
+Mike 
+Komola
+   
+30:19
+Front.
+Casey Frith-Smith   
+30:30
+So I'm assuming it's still that prioritization of like this stuff goes here, this stuff goes here, and then I've got this other stuff that great, thank you for the, you know, I don't know what an example would be, but I could either.
+Donate that to another partner within the community, or potentially sell it to 
+to
+ fundraise for Mary's Place initiatives. No, not really.
+Mike 
+Komola
+   
+30:56
+Sure. Yeah. No, yeah. So just we, we talk about selling stuff that's been sitting in the warehouse all the time. It's just that's a, you know, it takes resources and time and effort and figuring out how to shop all that stuff. And yeah, but no, that's the that's the essence. And the other, I guess the other thing is.
+Casey Frith-Smith   
+31:03
+Yeah.
+Lauren Milosky   
+31:04
+OK.
+Casey Frith-Smith   
+31:05
+Yeah.
+Lauren Milosky   
+31:06
+Yeah.
+Mike 
+Komola
+   
+31:14
+If the flow of information around from need through supply were 
+were
+ coordinated, centralized, streamlined, not automated.
+Systematized maybe is the right word. Then what we could also do is our development folks would be in a better position to focus and channel the giving 
+energy that we have in this community to real needs, not perceived needs. 
+So
+ for example.
+Lauren Milosky   
+31:50
+Mhm
+.
+Mike 
+Komola
+   
+31:50
+Our development person gets a call from REI and REI wants to their employees want to do something and 
+and
+ it it's.
+Some clothing, some excess clothing from a run that they did that are out of season clothing or whatever. Clothing isn't necessarily a good example, but if we knew if 
+if
+ we were.
+In a better position to have the information to track family needs across 
+the our
+ spectrum of services, shelter, outreach, prevention, then we'd be in a better position to focus and target.
+Lauren Milosky   
+32:27
+OK.
+Casey Frith-Smith   
+32:32
+Mhm
+.
+Mike 
+Komola
+   
+32:37
+The community needs to say, hey, you know what, here's what we need. Now right now we do it with like Amazon wish lists, right? Sort of generic, hey, we always need diapers, we always need, you know, toasters and microwaves and all this sort of thing. But if 
+if
+ the flow of information was such that it's more targeted.
+Casey Frith-Smith   
+32:45
+Mhm
+.
+Yeah.
+Mike 
+Komola
+   
+33:07
+Them 
+'cause
+ they right now they think it's funding it's 
+it's
+ 
+it's
+ 
+it's
+ being meaningful and used.
+Casey Frith-Smith   
+33:14
+Yeah.
+Mike 
+Komola
+   
+33:14
+But oftentimes it isn't. We don't want to tell them that, but oftentimes it isn't. We have 
+a 20 cases of coats
+ that are Eddie Bauer branded that you can only give away so many Eddie Bauer branded coats, right? 
+So
+ they're sitting in the warehouse.
+Casey Frith-Smith   
+33:17
+Yeah.
+   
+33:17
+Yeah.
+Mike 
+Komola
+   
+33:30
+So shortening the demand and supply chain through better information I think would go 
+go
+ a long way and 
+and
+ 
+and
+ getting us in that direction if that makes sense.
+Lauren Milosky   
+33:51
+It 
+it
+ does. I have a quick question on the supply side management that you have today. How is that managed and catalogued?
+Like it is. Do you have a central system? Is it the person who manages the warehouse has a lengthy catalog in their mind and they just know where things are somewhere in between?
+Mike 
+Komola
+   
+34:17
+No.
+Yeah, no, no system. That's been an issue for quite some time and 
+and
+ 
+but
+ 
+but
+ anyway, no, no system. What we have done is no information system what we have done.
+Largely, quite frankly, driven by financial audit reasons. We 
+have to
+ count our stuff, count our inventory. We 
+have to
+ value our in-kind inventory. We 
+have to
+ value what we consume, what we give away, what we dispose of. And so that's been the driver and about we worked on that problem for the better part.
+Lauren Milosky   
+34:38
+And.
+Mhm
+.
+Mike 
+Komola
+   
+34:54
+Of a year and a half and for the last year we have been operating in a system of.
+Receiving goods and 
+and
+ we have a couple of staff members at the warehouse who received goods from the public or from corporate donations and part of their job upon receipt is to sort.
+Into categories that have different values assigned to them and store them and count them. And we do it. We don't do skew or item counts because there's no way in heck you can do that without a system, without barcoding and scanning and all that fun stuff. But we do it. We measure items in.
+Lauren Milosky   
+35:33
+Mhm
+.
+Mike 
+Komola
+   
+35:40
+In terms of bins of items, so there will be a bin of toys, a bin of children's clothes, a bin of, and I can give you the bin is a standard amount.
+Lauren Milosky   
+35:52
+Uh huh.
+Mike 
+Komola
+   
+35:55
+Yeah. And that bin has a prescribed value by item and so and we also have food to deal with because we get donated food. 
+So
+ we 
+have to
+ deal with the same process with in-kind food donations.
+Lauren Milosky   
+36:06
+Uh.
+Mike 
+Komola
+   
+36:11
+But we, you know, we do that by weight, not by bin count. So. So we have a system, but it's not a sophisticated information system like you may be thinking of.
+Lauren Milosky   
+36:23
+OK. And then that's super helpful. Thank you. On the demand side, how does that, how do those come in today?
+Mike 
+Komola
+   
+36:33
+So each of our shelter locations has.
+An area that we call marketplace and least we stock marketplace with household items, clothing, shoes, personal hygiene items, diapers, wipes, all the kinds of things that guests use.
+Lauren Milosky   
+36:58
+Mhm
+.
+Mike 
+Komola
+   
+37:00
+And they can and 
+and
+ staff members will place orders from the warehouse to keep the marketplace stocked and guests are able to quote UN quote shop in the marketplace when they need items and so.
+So we're that system is in place and has been for a while for shelter guests. We don't have a similar system for outreach or prevention guests. What's happening is it's the demand has been driving the realization lately that we're not set up to supply.
+Jason Gortney   
+37:38
+Yes.
+Mike 
+Komola
+   
+37:39
+Easily to non-shelter guests, which is an issue because we, you know, we serve families across the spectrum like Jason described, not just in shelter. 
+So
+ it's an opportunity for us there. An outreach specialist will just call into our warehouse manager.
+Lauren Milosky   
+37:50
+And.
+Mike 
+Komola
+   
+37:59
+Our in-kind donations manager and say, hey, I've got, like I said a minute ago, we've got a family moving into housing. Can we get, you know, whatever kitchen appliances you have, bed sheets, linens, towels, silverware, plates, cups, glasses, whatever you have, just could you put it together and we'll come and pick it up.
+Lauren Milosky   
+38:14
+OK.
+Mike 
+Komola
+   
+38:19
+So it's, you know, ad hoc orders with grabbing whatever one can grab 
+at the moment
+ that ad hoc order comes in and giving them whatever we have. And it may be abundant or it may be, yeah, we don't have much of that right now, but if we knew, we could have had that stuff, for example, so.
+Lauren Milosky   
+38:34
+I think.
+Mike 
+Komola
+   
+38:38
+Be hit and miss on the 
+non shelter
+ front.
+Lauren Milosky   
+38:40
+Yeah.
+OK, in in your perfect world.
+For the non-sheltered families, would they have maybe direct access to view inventory and make those requests themselves? Or would do you do you think that would still go through an outreach coordinator just with them having more visibility into what's available?
+Mike 
+Komola
+   
+39:04
+Interesting. We were just talking about this the other day. That's why this is all top of mind for me. So the envisioned world that we had two days ago when we were talking about this is that we could give families access to inventory information.
+Information or at least the ability to make requests that we could, if we couldn't 
+source it immediately out of inventory with a little bit of time and effort, we could source it because we knew it was a need.
+Lauren Milosky   
+39:25
+OK.
+Mike 
+Komola
+   
+39:42
+The 
+the
+ outreach specialist coming to the warehouse or one of us going to the place where our outreach 
+specialists
+ office to drop off stuff. We have very limited storage capacity so we can do that.
+Sometimes that's just.
+What happens now out of trying to meet a need, but it's not efficient and often not effective because we didn't know. We didn't know, you know, and you can't. I mean, you don't know when a family is going into housing necessarily. You get maybe get a couple days lead time, sometimes maybe a little bit longer. So sometimes there is information.
+Lauren Milosky   
+40:15
+OK.
+Mike 
+Komola
+   
+40:25
+Early enough that if the information flow in storage of information, access to information was better, we could fulfill more but.
+You know, they don't always have to have stuff on day one, right. We could say, yeah, we, you know, you can move in and we'll get, we don't have a microwave now, but we'll have one within a week. 
+So
+ the other, the other piece to what we talked about the other day is what if we constructed?
+Lauren Milosky   
+40:46
+Yeah.
+Mike 
+Komola
+   
+40:59
+In one of our facilities, a marketplace concept for outreach and prevention families that that that we could, there's a place where the 
+the
+ families themselves could come to get items that.
+Casey Frith-Smith   
+41:03
+OK.
+Mike 
+Komola
+   
+41:16
+That we inventory.
+That we have available for them. We talked about that as well as a as an idea because the concept of the marketplace, it works reasonably well in shelter. We thought, well, why couldn't it work reasonably well for the other populations that we would like to serve, but don't very well right now.
+Lauren Milosky   
+41:27
+Yes.
+Mike 
+Komola
+   
+41:38
+Yeah, I think maybe it's a combination of the two, quite honestly, because sometimes if you just had the information flow, you could fulfill needs and then worry about the logistics of getting it to them differently. You can come and pick it up or.
+If someone happens to be going to help them move in or whatever, we have a we have a program.
+Called Make a Home run by one person on our team who is the coordinator for gathering household items to help a guest when they move into.
+Housing and correct me if I'm wrong, Jason, Olga helps any family. It doesn't matter if it's an outreach family or a prevention, sorry, a prevention family or a shelter family. It's just it's part of the service.
+Jason Gortney   
+42:25
+OK.
+Mike 
+Komola
+   
+42:33
+Of she sources. It's like she'll find out what a family needs. Let's say that they've got nothing, right? They need beds. They need kitchen out. She'll source from donors. She'll source from the warehouse. She'll just find whatever creative ways she can to help that family.
+So this would also what I'm talking about would coordinate with the efforts that that 
+program attempts to accomplish as well. I think anyway, it seems like it could help that as well.
+Jason Gortney   
+43:03
+Yeah, for sure.
+Mike 
+Komola
+   
+43:06
+So.
+No.
+Casey Frith-Smith   
+43:10
+I've got a lot of really good use cases here. When it comes to your like your IT department or any software development, is that internal team? Do you work with outside technology providers like service providers like Slalom?
+Lauren Milosky   
+43:12
+Yeah.
+Casey Frith-Smith   
+43:29
+Combination of both contractors, I don't.
+Jason Gortney   
+43:31
+Well, so we have our, we have an internal IT team that primarily manages our hardware and our just our software, you know contracts and those kinds of things. We have a data team that.
+Casey Frith-Smith   
+43:37
+Mhm
+.
+Jason Gortney   
+43:47
+Stewards our data collection and does sort of 
+a
+ analysis and evaluation for us and maintains that clunky data program data system and queries it and does reports and that kind of stuff we 
+definitely have
+ worked with.
+Casey Frith-Smith   
+44:02
+Mhm
+.
+Jason Gortney   
+44:07
+With 
+with
+ we were in a partnership last year at this time with some folks at Amazon, some folks at a 
+a
+ law firm to solve to use generative AI to solve a.
+The problem with the asylum seeking, we had this huge proportion of asylum seekers in our shelters and we were able to work with them and they developed a tool that would walk a person through their asylum application, which is a very long, complex process.
+Casey Frith-Smith   
+44:37
+Wow.
+Lauren Milosky   
+44:40
+Mhm
+.
+Jason Gortney   
+44:40
+In all those languages that Mike mentioned earlier and that we 
+we
+ were doing pro bono work with them and it took like the 
+the
+ meeting with the attorney from 4 hours down to one hour because the family was able to be walked through the 
+the
+ chat box.
+Casey Frith-Smith   
+44:59
+Mm.
+Jason Gortney   
+44:59
+In a very trauma-informed and 
+really emotionally
+ attuned way, walked them through the asylum application so that they got it all filled in. 
+So
+ when they met with the attorney for the pro bono piece, they could really 
+hone in on
+ the kind of the important stuff because the other stuff had already been taken care of by the chat bot. So that was that that was kind of an amazing.
+Lauren Milosky   
+45:04
+Yeah.
+Jason Gortney   
+45:19
+Amazing use case that would you know that they 
+actually built
+ in partnership with us and that's kind of what got me thinking about that idea that I pitched to you. So yeah.
+Lauren Milosky   
+45:19
+Yeah.
+Yeah.
+Yeah.
+I have a 
+a
+ question about that application. Is that something that your teams internally are now managing or is that run US still?
+Jason Gortney   
+45:41
+No, no. And The thing is now there are no asylum seekers who haven't done their paperwork. 
+So
+ we did, you know, because the flow was just completely shut down. 
+So
+ all the people that we've worked with, they've already done all that. 
+So
+ and we don't own it. It's owned by the law firm that.
+Lauren Milosky   
+45:51
+Yeah.
+OK.
+Jason Gortney   
+46:00
+And I 
+I
+ think for them it was a pro bono project that they were using to kind of prove out a concept that like, oh, this we could really, this is a scalable solution for like legal, you know, complete completing complex legal documents.
+Lauren Milosky   
+46:00
+I see.
+Hmm.
+Yes.
+Jason Gortney   
+46:17
+Perfox
+.
+Lauren Milosky   
+46:18
+OK.
+Casey Frith-Smith   
+46:19
+And did you say Amazon funded that?
+Jason Gortney   
+46:21
+I don't know who. I think the law firm 
+actually funded
+ it, but Amazon, we have a very close partnership with Amazon Legal and 
+and
+ then they work with 
+a number of
+ other law firms that they contract with to do pro bono work with us.
+Casey Frith-Smith   
+46:26
+OK.
+Mhm
+.
+Lauren Milosky   
+46:35
+OK.
+Casey Frith-Smith   
+46:38
+Yeah, yeah. I was expecting there's probably some more like given the 
+the
+ King County connection, some connection with 
+with
+ Amazon.
+Jason Gortney   
+46:48
+Yeah, we have a very, we have a very close relationship with Amazon.
+Casey Frith-Smith   
+46:51
+Yeah.
+Jason Gortney   
+46:53
+They built, they built one of our shelters for us right on their campus. 
+So
+ we have an 
+8 story
+ state-of-the-art family shelter right on the Amazon corporate campus.
+Casey Frith-Smith   
+47:03
+OK. Well, is any of your infrastructure deployed in AWS currently? Like do they help with any of 
+that?
+ I'm just.
+Jason Gortney   
+47:03
+Amazing.
+Not that I know 
+of,
+ Mike. Do you know? Yeah.
+Casey Frith-Smith   
+47:13
+OK.
+Mike 
+Komola
+   
+47:15
+Mhm
+.
+Casey Frith-Smith   
+47:17
+No, that's okay.
+Um, yeah.
+Lauren Milosky   
+47:20
+Do you have any, sorry, are there any technologies that you're aware of that are like more native to your infrastructure?
+Mike 
+Komola
+   
+47:30
+Um.
+Jason Gortney   
+47:30
+Um.
+Mike 
+Komola
+   
+47:32
+But I mean it's 
+it's
+ not.
+The system that Jason talked about, that's clunky. Would you describe that, Jason, as native to our infrastructure? I mean, I know it.
+Jason Gortney   
+47:46
+Well, it's 
+a
+ 
+honestly
+ it's an 
+open source
+ database model that was that was developed by a homeless services provider and then kind of made available at very low cost to other and it 
+it
+ looks like something from.
+From the 1990s, yeah, it's an old SQL database. 
+So
+ we have customized it. We our in-house team has customized it to our use. 
+So
+ I guess in that sense sort of, but everything else is kind of off the shelf we're.
+Mike 
+Komola
+   
+48:02
+Yeah, it's a. It's an old sequel database application. That's it's.
+Lauren Milosky   
+48:02
+OK.
+OK, OK.
+OK.
+Jason Gortney   
+48:18
+We're Microsoft kind of grounded based.
+Lauren Milosky   
+48:22
+Oh, so is Azure? Is most of your stuff Azure based then? Do you know?
+Casey Frith-Smith   
+48:29
+Probably mean, probably mean more like e-mail and everyone runs Windows and yeah, all your IT infrastructure.
+Mike 
+Komola
+   
+48:30
+Uh yes.
+Lauren Milosky   
+48:33
+Oh, in the office suite. OK, OK.
+Mike 
+Komola
+   
+48:34
+Yeah, we don't. We don't have a sophisticated tech stacks that's Azure cloud based. I mean none of the kind we have. I mean our 
+our
+ IT director that reports to Jason is.
+Jason Gortney   
+48:34
+Yeah, yeah, yeah.
+Lauren Milosky   
+48:38
+All good.
+Jason Gortney   
+48:39
+Yeah, no.
+Lauren Milosky   
+48:40
+OK.
+Mike 
+Komola
+   
+48:50
+Very experienced and creative and strategic and so he's got us. I mean we're 
+we're
+ training and we're sticking with copilot because that's we're a Microsoft shop, but you know.
+Lauren Milosky   
+49:06
+Mhm
+.
+Mike 
+Komola
+   
+49:10
+Experimenting with AI applications, we're training, we're 
+we're
+ training copilot for HR applications right now with just basic chat bot functionality around benefits in our employee handbook and policies and some of those real basic use cases. 
+So
+ we're I don't know.
+Lauren Milosky   
+49:27
+Well.
+Mike 
+Komola
+   
+49:29
+We're just we're experimenting.
+Jason Gortney   
+49:30
+We're scratching the surface, yeah.
+Mike 
+Komola
+   
+49:32
+Yeah, yeah, yeah, for sure.
+Casey Frith-Smith   
+49:38
+So we've 
+we've
+ heard a lot of a lot of use cases today. 
+So
+ there's like the 
+the
+ intake process and helping to facilitate that. I'll I speed it 
+up, but
+ also like you know making some of 
+it
+ self-serve, some of it supporting more languages.
+Really helping families to prioritize, you know, not just families, but Mary's Place and the families prioritize the like, hey, where should we start, right? There's lots of steps in this and you know, here's what your journey could look like and 
+and
+ here's where we may.
+A start. Um.
+Probably going to miss some of the use cases, but thankfully we have the transcript I can go back to. 
+Also
+ lots of use cases around like the 
+the
+ intake of 
+of
+ you know, identifying the 
+the
+ goods that that are needed for the three different use cases you.
+Lauren Milosky   
+50:19
+OK.
+Casey Frith-Smith   
+50:30
+You covered goods that are needed. How do we connect people with those goods? How do you know what's in that warehouse? How, you know, how do you connect supply and demand? Probably some ways to say, hey, we don't need hiking gear REI, what we need are, you know.
+You know, no more jackets either. What we need is, I don't know, like basic, you know, clothing, et cetera. And so ways to move some of that, those goods, identify the ones that are useful, get those to the people who need them, the ones that are not useful, get those someplace else.
+Um.
+I know I'm missing a bunch, but I what my 
+my
+ next step will be to follow up with an e-mail to say these are the 
+the
+ opportunities that that we think that we heard and validate that with you.
+Jason Gortney   
+51:21
+Sounds good.
+Mike 
+Komola
+   
+51:22
+Sounds cool, yeah.
+Casey Frith-Smith   
+51:22
+Is there anything else where you're like one more thing that if we could just solve it, this little thing, it would make our lives and the lives of our 
+our
+ guests like so much better?
+And the answer is no, that's fine, because there's plenty of good ones here.
+Mike 
+Komola
+   
+51:43
+I was just 
+gonna
+ say, yeah, there's a there's a good starter list.
+Lauren Milosky   
+51:44
+Yeah.
+Casey Frith-Smith   
+51:46
+For sure.
+OK.
+Lauren, anything else maybe I missed?
+Lauren Milosky   
+51:54
+No, I guess just one more question. Casey Wolf said we'll follow up with the use cases that we heard today. But as we talked about at the top of the call, like we are hoping to produce something meaningful and useful to you and to Mary's place. 
+So
+ as we.
+We kind of dig into a use case. Might there be an opportunity to maybe have a similar call, not taking too much time with either like a care coordinator for the first use case that we talked about or maybe someone who's in like the goods intake and distribution space?
+Um, so that we could get into like a little bit more detail on both of those?
+Jason Gortney   
+52:38
+Sure, from 
+my
+ from the program and that that's fine.
+Mike 
+Komola
+   
+52:40
+Yeah, from my perspective, absolutely, yeah.
+Lauren Milosky   
+52:42
+Great.
+Mike 
+Komola
+   
+52:43
+Yep.
+Lauren Milosky   
+52:46
+All right. I think that's everything for me.
+Casey Frith-Smith   
+52:51
+Cool.
+Mike 
+Komola
+   
+52:51
+Well, thank you. Nice to meet you.
+Jason Gortney   
+52:52
+OK.
+Casey Frith-Smith   
+52:54
+Yeah. Yeah. Likewise. Thank you so much.
+Jason Gortney   
+52:56
+Yeah, OK. Nice to meet you both. Yeah. Have a good weekend.
+Lauren Milosky   
+52:56
+Thank you both. It was great to meet you. Happy Friday.
+Casey Frith-Smith   
+52:57
+Thank you.
+Good. Thanks. Bye.
+Lauren Milosky   
+53:00
+Bye.
+Mike 
+Komola
+   
+53:00
+Likewise, take care.
+Jason Gortney   
+53:01
+OK. Bye.
+Casey Frith-Smith 
+stopped transcription
